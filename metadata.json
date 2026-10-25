@@ -1,0 +1,6 @@
+{
+  "name": "RootChecker & Device Fleet Hub",
+  "description": "Система моніторингу встановлених Android-пристроїв (Android 9 - 16) з функцією повної перевірки Root-прав (наявність або відсутність root-доступу).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
